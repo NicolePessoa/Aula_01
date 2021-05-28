@@ -21,11 +21,11 @@ public class Calculadora {
 		divisao = valor1 / valor2;
 		multiplicacao = valor1 * valor2;
 		
-		System.out.println("A soma entre os dois valores informados é " + soma);
+		System.out.println("A soma entre os dois valores informados é " + soma);	
 		
-		System.out.println("A subtração entre os dois valores informados é " + subtracao);
+		System.out.println("A subtração entre os dois valores informados é " + subtracao);		
 		
-		System.out.println("A divisão entre os dois valores informados é " + divisao);
+		System.out.println("A divisão entre os dois valores informados é " + divisao);			
 		
 		System.out.println("A multiplicação entre os dois valores informados é " + multiplicacao);
 		
